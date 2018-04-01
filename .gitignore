@@ -1,0 +1,33 @@
+# macos
+.DS_Store
+.AppleDouble
+.Spotlight-V100
+.Trashes
+
+# windows
+Thumbs.db
+ehthumbs.db
+
+# vagrant
+.vagrant
+*.box
+
+# npm yarn
+node_modules/
+.npm/
+npm-debug.log*
+package-lock.json
+yarn.lock
+yarn-debug.log*
+yarn-error.log*
+.yarn-integrity
+
+# babel
+.babelcache.json
+.babelcacheappengine.json
+
+# builds
+build/
+
+# firebase
+firebase-debug.log
